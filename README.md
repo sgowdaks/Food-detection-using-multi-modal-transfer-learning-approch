@@ -2,16 +2,16 @@
 This repository contains the official implementation of [Multi-Modal Food Classification in a Diet Tracking
 System with Spoken and Visual Inputs](https://ieeexplore.ieee.org/document/10095762)
 
-### Overview
+## Overview
 We investigated multi-modal transfer learning approaches on a novel, food-specific image-text dataset. We aim to provide new insight into the process of developing domain-specific, multi-modal deep learning models with small datasets.
 
-### Model-I
+## Model-I
 Baseline vision-and-language model without pre-trained weights by merging CNN and LSTM models
-<img src="imgs/model-I.png" width="250">
+<img src="imgs/model-I.png" width="450">
 
-### Model-II
+## Model-II
 
-### Citation
+## Citation
 ```BibTeX
 @INPROCEEDINGS{10095762,
   author={Gowda, Shivani and Hu, Yifan and Korpusik, Mandy},

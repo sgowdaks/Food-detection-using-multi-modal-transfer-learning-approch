@@ -11,7 +11,7 @@ Baseline vision-and-language model without pre-trained weights by merging CNN an
 
 ## Model-II
 Vision-and-Language Transformer (ViLT) with Pre-Trained Weights
-<img src="imgs/model-II.png" width="450">
+<img src="imgs/model-II.png" width="550">
 
 ## Citation
 ```BibTeX
